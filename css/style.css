@@ -1,5 +1,8 @@
-p {
+body {
     color: black;
-    text-align: center;
-    background-image: linear-gradient (to right, green,  black)
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    background-color: green;
 }
